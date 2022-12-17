@@ -1,4 +1,2 @@
-
-using NBInclude #nb
-@nbinclude("00.jl") #nb
-include("00.jl") #src
+using NBInclude
+@nbinclude("00.jl")
